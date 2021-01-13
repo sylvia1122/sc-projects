@@ -10,5 +10,5 @@ Watch my *[DEMO VIDEO](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISyG
   * recursive function
 * [Break Out Game](https://github.com/sylvia1122/sc-projects/blob/main/stanCode_projects/break_out_game/breakout.py)
   * animation & game designing 
-* [Name Popularity Searching System](https://github.com/sylvia1122/sc-projects/blob/main/stanCode_projects/name_searching_system/babynames.py)
+* [Name Popularity Searching System](https://github.com/sylvia1122/sc-projects/blob/main/stanCode_projects/name_searching_system/babygraphicsgui.py)
   * data structure
